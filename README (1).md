@@ -83,7 +83,7 @@ Each trigger:
 
 | Landing | Registration | Plan Selection |
 |---|---|---|
-| ![Landing](screenshots/landing.png) | ![Register](screenshots/register.png) | ![Plans](screenshots/plans.png) |
+| ![Landing](screenshots/"C:\Users\Keerthanasri S\Pictures\Screenshots\Screenshot 2026-04-04 203443.png".png) | ![Register](screenshots/register.png) | ![Plans](screenshots/plans.png) |
 
 | Dashboard | Trigger Fired | Wallet |
 |---|---|---|
