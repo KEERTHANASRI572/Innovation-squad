@@ -5,7 +5,7 @@
 [![Hackathon](https://img.shields.io/badge/Guidewire-DEVTrails%202026-f59e0b?style=for-the-badge)](https://devtrails.guidewire.com)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-10b981?style=for-the-badge)](https://your-username.github.io/shiftshield)
 [![License](https://img.shields.io/badge/License-MIT-3b82f6?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Prototype-f59e0b?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Prototype-f59e0b?style=for-the-badge)](#) 
 
 ---
 
@@ -36,6 +36,7 @@ Premiums are calculated dynamically based on:
 - **Weather condition surcharge** (Normal +₹0 / Monsoon +₹25 / Extreme +₹50)
 
 ### 🗂️ Plan Selection
+
 | Feature | Basic Shield | Premium Shield |
 |---|---|---|
 | Weekly Premium | From ₹100 | From ₹150 |
@@ -44,6 +45,7 @@ Premiums are calculated dynamically based on:
 | Payout Multiplier | 1.0× | 1.4× |
 
 ### ⚡ Automated Trigger Buttons
+
 | Trigger | Coverage |
 |---|---|
 | 🌧️ Heavy Rain | Basic + Premium |
@@ -81,15 +83,41 @@ Each trigger:
 
 ## 📸 Screenshots
 
-| Landing | Registration | Plan Selection |
-|---|---|---|
-| ![Landing](screenshots/"C:\Users\Keerthanasri S\Pictures\Screenshots\Screenshot 2026-04-04 203443.png".png) | ![Register](screenshots/register.png) | ![Plans](screenshots/plans.png) |
+<table>
+  <tr>
+    <th align="center">Landing</th>
+    <th align="center">Registration</th>
+    <th align="center">Plan Selection</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="240" src="https://github.com/user-attachments/assets/61b2a301-23db-4d65-826d-88f9ccc517cf" alt="Landing Screen"/></td>
+    <td align="center"><img width="240" src="https://github.com/user-attachments/assets/e685d7ef-6df8-4066-b8e6-2f7bec55b407" alt="Registration Screen"/></td>
+    <td align="center"><img width="240" src="https://github.com/user-attachments/assets/2ffd134e-3928-4412-bbc5-a91b57b250f7" alt="Plan Selection Screen"/></td>
+  </tr>
+</table>
 
-| Dashboard | Trigger Fired | Wallet |
-|---|---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Trigger](screenshots/trigger.png) | ![Wallet](screenshots/wallet.png) |
+<table>
+  <tr>
+    <th align="center">Premium Calculator</th>
+    <th align="center">Dashboard</th>
+    <th align="center">Wallet</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="240" src="https://github.com/user-attachments/assets/55dbf52b-c21f-4ae6-b995-1c5b9a804397" alt="Premium Calculator"/></td>
+    <td align="center"><img width="240" src="https://github.com/user-attachments/assets/acdbd6d9-e955-431a-b6e9-08f49150dda1" alt="Dashboard Screen"/></td>
+    <td align="center"><img width="240" src="https://github.com/user-attachments/assets/cdef24f4-4366-4f25-a065-39b6205c81bb" alt="Wallet Screen"/></td>
+  </tr>
+</table>
 
-> 📌 Add screenshots to `/screenshots/` folder and update the paths above.
+<table>
+  <tr>
+    <th align="center" colspan="2">Trigger Fired — Auto Claim Pipeline</th>
+  </tr>
+  <tr>
+    <td align="center"><img width="320" src="https://github.com/user-attachments/assets/170d555e-733a-4b03-a2ea-be2ed924238d" alt="Trigger Processing"/></td>
+    <td align="center"><img width="320" src="https://github.com/user-attachments/assets/105760f2-e12b-4b0d-abe7-2fc967ca10da" alt="Trigger Result"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -100,7 +128,7 @@ Each trigger:
 | Markup | HTML5 (semantic, accessible) |
 | Styling | CSS3 (custom properties, grid, flexbox, animations) |
 | Logic | Vanilla JavaScript ES6+ |
-| Fonts | [Manrope](https://fonts.google.com/specimen/Manrope) + [Space Mono](https://fonts.google.com/specimen/Space+Mono) |
+| Fonts | Manrope + Space Mono |
 | Storage | `localStorage` for session persistence |
 | Deployment | GitHub Pages (zero dependencies) |
 
@@ -139,7 +167,7 @@ Or simply **double-click `index.html`** — no server needed.
    - Branch: `main`
    - Folder: `/ (root)`
 4. Click **Save**
-5. Your app is live at: `https://your-username.github.io/shiftshield`
+5. Your app is live at:  https://manjurya923.github.io/Innovation_Squad/shiftshield.html
 
 > ⏱️ GitHub Pages typically goes live within 60–90 seconds.
 
@@ -161,7 +189,7 @@ shiftshield/
 
 ## 🏆 Hackathon Submission
 
-**Event:** Guidewire DEVTrails 2026
+**Event:** Guidewire DEVTrails 2026  
 **Track:** Emerging Risk / Gig Economy Insurance
 
 ### Submission Description
